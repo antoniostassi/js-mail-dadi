@@ -6,4 +6,8 @@ const adminEmails = [
 ]
 
 
-   
+const usrLogin = prompt("Inserisci l'email per l'accesso.");
+
+for(let k = 0; k < adminEmails.lenght; k++){
+
+}
